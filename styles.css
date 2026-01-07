@@ -7,7 +7,7 @@ body{
     color: #D5D4D8;
 }
 .random-pass-text{
-    color: #40D677;
+    color: red;
 }
 .password-generator-words{
     margin-left: 125px;
@@ -28,7 +28,7 @@ p{
 
 button{
     border: none;
-    background-color: #40D677;
+    background-color: red;
     color: #ffff;
     margin-bottom: 70px;
     padding: 9px;
@@ -56,6 +56,8 @@ button{
 
 button:hover{
     cursor: pointer;
-    background-color: #258b4a;
+    background-color: red;
+    font-weight: bolder;
+    border: 2px solid black ;
 }
 
